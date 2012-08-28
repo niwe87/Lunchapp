@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">LunchApp</string>
+    
+    <!-- addRestaurant -->
+    <string name="title_addrest">Add Restaurant</string>
+    <string name="addrestName">Name</string>
+    <string name="addrestInfo">Info</string>
+    <string name="addrestLink">Link</string>
+    <string name="addrestAddBtn">Add Restaurant</string>
+    
+    <!-- dinerfuture -->
+     <string name="title_dinerfuture">Diner Future</string>
+    
+    <!-- diner info -->
+    <string name="title_dinerinfo">Diner Info</string>
+    <string name="dinerinfoDifTimeBtn">diner different time</string>
+    
+    <!-- fav info -->
+    <string name="title_favinfo">Fav Info</string>
+     
+    <!-- fav select -->
+    <string name="title_favselect">Fav Select</string>
+    <string name="favselAddBtn">Add Restaurant</string>
+    
+    <!-- login -->
+    <string name="title_login">Login</string>
+    <string name="logNam">Name</string>
+    <string name="logPwd">Password</string>
+    <string name="logRegBtn">Register</string>
+    <string name="logLogBtn">Login</string>
+    <string name="logFail">Login Fail</string>
+    
+    <!-- register -->
+    <string name="title_register">Register</string>
+    <string name="regBtn">Register</string>
+    <string name="regNam">Name</string>
+    <string name="regPwd">Password</string>
+    <string name="regPwdWdh">Password</string>
+    <string name="regPwdFailLength">password has to be minimum 4 letters</string>
+    <string name="regPwdFail">passwords have to be the same</string>
+    <string name="regSuccess">You are registered!</string>
+    <string name="regUserExist">User already exists!</string>
+     
+    <!-- start -->
+    <string name="title_start">Lunch App</string>
+    <string name="startAllBtn">Alle</string>
+    <string name="startEatBtn">Essen</string>
+    <string name="startFavChoose">Bitte wähle einen Favoriten!</string>
+    
+</resources>
